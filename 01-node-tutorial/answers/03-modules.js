@@ -4,6 +4,6 @@ const cakeData = require("./06-alternative-flavor.js");
 const mindGrenade = require("./07-mind-grenade.js");
 
 
-hello(names.kate);
+//hello(names.kate);
 
-console.log(cakeData);
+//console.log(cakeData);
