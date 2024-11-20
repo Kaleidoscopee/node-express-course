@@ -37,6 +37,7 @@ const form = () => {
     <option value="Chicken">Chicken</option>
   </select>
   <button type="submit">Submit</button>
+  <p>nodemon was used</p> <!--used script in package.json to do so called npm run dev-->
   </form>
   </body>
   `;
