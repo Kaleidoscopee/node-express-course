@@ -21,7 +21,7 @@ const getBody = (req, callback) => {
 };
 
 // here, you could declare one or more variables to store what comes back from the form.
-let item = "Choose an Color!";
+let item = "Choose a Color!";
 let bgColor = "white";
 
 // here, you can change the form below to modify the input fields and what is displayed.
