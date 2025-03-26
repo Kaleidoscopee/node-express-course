@@ -11,4 +11,4 @@ console.log(__dirname)
   console.log('hello world')
 }, 1000)*/
 
-console.log("MY_VAR:", process.env.MY_VAR);
+console.log(process.env.MY_VAR);
